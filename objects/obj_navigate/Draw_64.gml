@@ -1,0 +1,1 @@
+draw_text(20, 80, debug_info);
